@@ -1,13 +1,14 @@
 " Language:     Verilog/SystemVerilog HDL
-" Maintainer:	Amit Sethi <amitrajsethi@yahoo.com>
-" Last Change:	Thu Jul 27 12:09:48 IST 2006
 "
 " Credits:
 "   Originally created by
-"       Chih-Tsun Huang <cthuang@larc.ee.nthu.edu.tw>
-" 	http://larc.ee.nthu.edu.tw/~cthuang/vim/indent/verilog.vim
-"   Suggestions for improvement, bug reports by
-"     Leo Butlero <lbutler@brocade.com>
+"     Maintainer:   Amit Sethi <amitrajsethi@yahoo.com>
+"     Last Change:  Thu Jul 27 12:09:48 IST 2006
+
+"     Chih-Tsun Huang <cthuang@larc.ee.nthu.edu.tw>
+" 	    http://larc.ee.nthu.edu.tw/~cthuang/vim/indent/verilog.vim
+"     Suggestions for improvement, bug reports by
+"       Leo Butlero <lbutler@brocade.com>
 "
 " Buffer Variables:
 "     b:verilog_indent_modules : indenting after the declaration

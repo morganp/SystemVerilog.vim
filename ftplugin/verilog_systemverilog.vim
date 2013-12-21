@@ -1,8 +1,10 @@
 " Vim filetype plugin file
 " Language:	Verilog HDL
-" Maintainer:	Chih-Tsun Huang <cthuang@larc.ee.nthu.edu.tw>
-" Last Change:	Mon Sep  5 11:05:54 CST 2005 and 2006 April 30
-" URL:		http://larc.ee.nthu.edu.tw/~cthuang/vim/ftplugin/verilog.vim
+" Credits:
+"   Originally created by 
+"     Maintainer:   Chih-Tsun Huang <cthuang@larc.ee.nthu.edu.tw>
+"     Last Change:  Mon Sep  5 11:05:54 CST 2005 and 2006 April 30
+"     URL:          http://larc.ee.nthu.edu.tw/~cthuang/vim/ftplugin/verilog.vim
 
 " Only do this when not done yet for this buffer
 if exists("b:did_ftplugin")
