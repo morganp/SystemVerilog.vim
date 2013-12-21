@@ -1,7 +1,7 @@
 SystemVerilog
 ==
 
-Support       Verilog: indent, syntax highlight
+Support       Verilog: indent, syntax highlight  
 Support SystemVerilog: indent, syntax highlight, matchit, snipMate
 
 Installation
