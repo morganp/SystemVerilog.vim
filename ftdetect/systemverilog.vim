@@ -12,7 +12,7 @@ if exists("b:did_ftplugin")
 endif
 
 
-autocmd BufNewFile,BufRead *.v,*.vh    set ft=verilog_systemverilog
-autocmd BufNewFile,BufRead *.f,*.v.*   set ft=verilog_systemverilog
-autocmd BufNewFile,BufRead *.sv        set ft=verilog_systemverilog
+autocmd BufNewFile,BufRead *.v,*.vh    set ft=systemverilog
+autocmd BufNewFile,BufRead *.f,*.v.*   set ft=systemverilog
+autocmd BufNewFile,BufRead *.sv        set ft=systemverilog
 
